@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("newline")
         // Do any additional setup after loading the view.
 //        let res = subarrayGivenSum(arr: [1, -4, 20, -2 , 10, 5], sum: 14)
 //        if let res = res {
